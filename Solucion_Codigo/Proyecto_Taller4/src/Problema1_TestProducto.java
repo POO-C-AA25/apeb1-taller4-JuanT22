@@ -33,7 +33,7 @@ class Producto{
         
     @Override
     public String toString() {
-        return "Producto{" + "precioP=" + precioP + ", cantidadP=" + cantidadP + ", descuento=" + descuento + ", precioFinal=" + precioFinal + ", montoD=" + montoD + '}';
+        return "Producto\n{precioP = " + precioP + ", cantidadP = " + cantidadP + ", descuento=" + descuento + ", precioFinal = " + precioFinal + ", montoD = " + montoD + '}';
     }
     
 }
